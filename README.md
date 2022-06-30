@@ -8,7 +8,7 @@ Twitter US Airline Sentiment
 - To identify the sentiment from a tweet to understand an airlines' customer satisfaction
 
 ## Skills and Tools
-- Image processing
-- Computer Vision
-- Keras
-- Convolutional Neural Networks (CNN)
+- Text processing
+- Vectorization (Count vectorizer & Tf-idf vectorizer)
+- Sentiment analysis
+- Parameter tuning
